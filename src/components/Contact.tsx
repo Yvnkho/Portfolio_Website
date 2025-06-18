@@ -66,7 +66,6 @@ const Contact: React.FC = () => {
             transition={{ duration: 0.5, delay: 0.2 }}
           >
             <div className="bg-white dark:bg-dark-700 rounded-lg shadow-md p-6 md:p-8">
-              <h3 className="text-2xl font-bold mb-6">Send Me a Message</h3>
               
               {isSubmitted ? (
                 <div className="flex flex-col items-center justify-center py-8">

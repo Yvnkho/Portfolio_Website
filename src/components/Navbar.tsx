@@ -55,15 +55,7 @@ const Navbar: React.FC = () => {
               <span className="font-mono">Yankho Kamtukulo</span>
             </Link>
             <div className="flex items-center space-x-3 ml-4">
-              <a
-                href="https://x.com/yourusername"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-dark-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
-                aria-label="X (formerly Twitter)"
-              >
-                <span className="font-bold text-lg">𝕏</span>
-              </a>
+              
               <a
                 href="https://github.com/Yvnkho"
                 target="_blank"
