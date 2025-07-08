@@ -34,7 +34,7 @@ const timelineData: TimelineItem[] = [
     id: 3,
     title: "BSc in Computer Systems and Security",
     location: "Malawi University of Science and Technology (MUST)",
-    description: "Focus on software engineering and cybersecurity. Graduated with Credit.",
+    description: "Focus on Networking, Software engineering and Cybersecurity. Graduated with Credit.",
     date: "2019 - 2024",
     icon: "education"
   }
