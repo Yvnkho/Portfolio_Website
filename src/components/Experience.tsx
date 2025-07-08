@@ -26,7 +26,7 @@ const timelineData: TimelineItem[] = [
     id: 2,
     title: "ICT Associate",
     location: "Kwathu Kollective (Ntha Foundation)",
-    description: "Designed and implemented security infrastructure for cloud-based applications. Developed automated security testing tools.",
+    description: "Led ICT operations including infrastructure management, user support, and LMS development. Delivered digital literacy training, maintained WordPress platforms, and ensured system security, performance, and documentation.",
     date: "01/2024 - 10/2024",
     icon: "work"
   },
@@ -34,7 +34,7 @@ const timelineData: TimelineItem[] = [
     id: 3,
     title: "BSc in Computer Systems and Security",
     location: "Malawi University of Science and Technology (MUST)",
-    description: "Focus on software engineering and cybersecurity. Graduated with honors. Research assistant in the Security Lab.",
+    description: "Focus on software engineering and cybersecurity. Graduated with Credit.",
     date: "2019 - 2024",
     icon: "education"
   }
